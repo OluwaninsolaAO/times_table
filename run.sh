@@ -1,9 +1,9 @@
 #!/bin/bash
 
-TABLE=14899
-dir=148
+TABLE=0
+dir=0
 loop=0
-temp=14701
+temp=0
 while [ $loop -le 1 ]
 do
 	row=1
