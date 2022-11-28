@@ -18,6 +18,7 @@ automated using bash script.
 > * 1 x 10 = 10
 > * 1 x 11 = 11
 > * 1 x 12 = 12
+>
 > Resulting files is organized in folders by the script to avoid
 > things getting  crazy quickly. :D
 
